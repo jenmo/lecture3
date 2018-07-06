@@ -4,3 +4,5 @@ CREATE TABLE flights (
     destination VARCHAR NOT NULL,
     duration INTEGER NOT NULL
 );
+
+#copy this into the command line after u entered the URI for psql
